@@ -1,6 +1,6 @@
 Hello, I analyzed the data obtained from the results of high-energy collision experiments in the files you see here.
 You can see codes written in Python and C++. 
-Some of them are simulation data and some are data taken from CERN's ATLAS experiment.
+Some of them are Monte Carlo simulation data and some are data taken from CERN's ATLAS experiment.
 I won't share the raw data here.
 
 My analyzes include mass analyzes of the Z, W and Higgs bosons.
