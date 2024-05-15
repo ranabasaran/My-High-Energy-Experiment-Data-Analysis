@@ -6,5 +6,5 @@ I won't share the raw data here.
 My analyzes include mass analyzes of the Z, W and Higgs bosons.
 Electron, muon and heavy quark channels were used in these analyses.
 One of the Python files contains the codes required to compare simulation data and real data on the canvas.
-The analysis of the data was done through the ROOT framework.
+The analysis of the data was done through the ROOT framework (which I did with Ubuntu, ROOT framework does not work well on Windows).
 I can also show the background of the codes to those who are interested.
