@@ -77,7 +77,7 @@ for event in tree:
         if abs(event.lep_type[i]) == 13:
             muons.append(i)
 
-    # En az iki elektron varsa histogramı doldurma
+    # En az iki muon varsa histogramı doldurma
     if len(muons) >= 2:
         for i in range(len(muons)):
             for j in range(i + 1, len(muons)):
